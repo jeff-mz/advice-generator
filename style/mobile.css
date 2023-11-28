@@ -1,0 +1,8 @@
+@media (max-width: 450px) {
+  #app {
+    width: 65%;
+  }
+  #app .seprator {
+    margin: 1rem 0;
+  }
+}/*# sourceMappingURL=mobile.css.map */
